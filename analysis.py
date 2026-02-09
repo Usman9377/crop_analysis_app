@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("🌱 Variety Performance & G×E Analysis Dashboard")
 st.subheader("📊 Plant Breeding | Multi-Location Trials | Decision Support Tool")
 
-st.markdown("---")
+st.success("App started successfully!")
 
 # ===================== DATA INPUT =====================
 st.sidebar.header("📂 Data Input")
